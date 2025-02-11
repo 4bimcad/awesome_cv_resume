@@ -1,7 +1,7 @@
-# CV Free HTML Responsive Template
+# Awesome CV Resume
 
 ## Overview
-CV Free HTML Responsive Template is a simple, clean, and modern resume template designed for personal use. It is fully responsive and optimized for different devices. This template is ideal for professionals who want to showcase their CV online in an elegant and structured format.
+Awesome CV Resume is a simple, clean, and modern resume template designed for personal use. It is fully responsive and optimized for different devices. This template is ideal for professionals who want to showcase their CV online in an elegant and structured format.
 
 ## Demo
 [Live Demo](https://perfil.cv/cv_template.html)
@@ -16,7 +16,7 @@ CV Free HTML Responsive Template is a simple, clean, and modern resume template 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/cv-free-html-template.git
+   git clone https://github.com/yourusername/awesome_cv_resume.git
    ```
 2. Open the `index.html` file in your browser.
 
@@ -32,5 +32,5 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 ## Contact
-For any inquiries or support, reach out via 4bimcad@gmail.com.
+For any inquiries or support, reach out via https://perfil.cv/contacts.html.
 
