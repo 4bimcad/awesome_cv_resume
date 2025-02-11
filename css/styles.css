@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=DM+Sans:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body {
+    font-family: 'DM Sans', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Inter', sans-serif;
+}
+
+.bg-black {
+    border-radius: 1px;
+}
+
+.shadow-lg {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+@media print {
+    body {
+        background: white !important;
+        padding: 0 !important;
+    }
+    .shadow-lg, .rounded-md {
+        box-shadow: none !important;
+        border-radius: 0 !important;
+    }
+}
+
+.qr-code {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #f9f9f9;
+}
+
+.font-oxygen {
+    font-family: "Oxygen", sans-serif;
+    font-weight: 400; /* или 300, 700 в зависимости от стиля */
+  }
